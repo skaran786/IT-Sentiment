@@ -11,6 +11,7 @@ def create_folder_structure(project_name):
         "data": ["images", "trained_models"],
         "notebooks": [],
         "src": ["preprocessing", "ocr", "sentiment_analysis"],
+        "util": []
     }
 
     # Create subdirectories
