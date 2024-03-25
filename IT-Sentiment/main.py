@@ -1,0 +1,1 @@
+# Main script to run the entire pipeline (image processing, OCR, sentiment analysis)
