@@ -1,6 +1,6 @@
 import argparse
 from pathlib import Path
-from util.image_preprocess import ImagePreprocessor
+from image_preprocess_util import ImagePreprocessor
 
 def main():
     parser = argparse.ArgumentParser(description="Image preprocessing script")
