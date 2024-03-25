@@ -63,15 +63,3 @@ def with_logging(func):
         return result
 
     return wrapper
-
-if __name__ == "__main__":
-    logger = LoggerUtil()
-    logger.init_logger("example.log")
-    logger.set_log_level(logging.DEBUG)
-    logger.set_log_format('%(asctime)s - %(levelname)s - %(module)s - %(message)s')
-
-    @with_logging
-    def example_function():
-        print("Example function called")
-
-    example_function()

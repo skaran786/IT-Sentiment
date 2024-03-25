@@ -1,12 +1,10 @@
-import argparse
 import cv2
-from pathlib import Path
-from utility.logger_util import LoggerUtil
+from utility import logger_util
 
 class ImagePreprocessor:
     def __init__(self, target_size=(256, 256), log_file="preprocessing.log"):
         self.target_size = target_size
-        self.logger = LoggerUtil(log_file)
+        self.logger = logger_util.LoggerUtil(log_file)
 
     def preprocess_image(self, image_path, output_dir):
         """Preprocess an image"""
