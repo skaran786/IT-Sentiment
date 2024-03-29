@@ -1,0 +1,596 @@
+2024-03-29 07:46:37,037 - INFO - Recognizing text in the image: data/processed_images/ayega na .png
+2024-03-29 07:46:37,037 - INFO - Recognizing text in the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 07:46:37,038 - INFO - Getting text with coordinates from the image: data/processed_images/ayega na .png
+2024-03-29 07:46:37,038 - INFO - Recognizing text in the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 07:46:37,038 - INFO - Getting text with coordinates from the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 07:46:37,038 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 07:46:37,039 - INFO - Recognizing text in the image: data/processed_images/ayega na .png
+2024-03-29 07:46:37,039 - INFO - Recognizing text in the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 07:46:37,039 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 07:46:37,040 - INFO - Getting text with coordinates from the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 07:46:37,040 - INFO - Recognizing text in the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 07:46:37,040 - INFO - Getting text with coordinates from the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 07:46:37,041 - INFO - Getting text with coordinates from the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 07:46:37,042 - INFO - Recognizing text in the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 07:46:37,042 - INFO - Recognizing text in the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 07:46:37,041 - INFO - Getting text with coordinates from the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 07:46:37,043 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 07:46:37,044 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 07:46:44,873 - ERROR - Error processing image data/processed_images/ayega na .png: [Errno 2] No such file or directory: '/home/codespace/.EasyOCR//model/temp.zip'
+2024-03-29 07:46:44,875 - ERROR - Error processing image data/processed_images/MicrosoftTeams-image (5).png: [Errno 2] No such file or directory: '/home/codespace/.EasyOCR//model/temp.zip'
+2024-03-29 07:46:44,876 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 07:46:44,879 - INFO - Getting text with coordinates from the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 07:46:44,880 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 07:46:44,891 - ERROR - Error processing image data/processed_images/MicrosoftTeams-image (2).png: [Errno 2] No such file or directory: '/home/codespace/.EasyOCR//model/temp.zip'
+2024-03-29 07:46:44,900 - ERROR - Error processing image data/processed_images/Chandler No-No-No (2).png: [Errno 2] No such file or directory: '/home/codespace/.EasyOCR//model/temp.zip'
+2024-03-29 07:46:45,033 - ERROR - Error processing image data/processed_images/Kota Factory Meme.png: [Errno 2] No such file or directory: '/home/codespace/.EasyOCR//model/temp.zip'
+2024-03-29 07:46:50,582 - INFO - Initialized easyocr.Reader
+2024-03-29 07:46:50,593 - INFO - Initialized easyocr.Reader
+2024-03-29 07:46:52,405 - INFO - Text recognition completed
+2024-03-29 07:46:52,406 - INFO - Text with coordinates retrieval completed
+2024-03-29 07:46:52,406 - INFO - Text recognition completed for image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 07:46:52,541 - INFO - Text recognition completed
+2024-03-29 07:46:52,541 - INFO - Text with coordinates retrieval completed
+2024-03-29 07:46:52,541 - INFO - Text recognition completed for image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 07:47:30,265 - INFO - Recognizing text in the image: data/processed_images/ayega na .png
+2024-03-29 07:47:30,265 - INFO - Recognizing text in the image: data/processed_images/ayega na .png
+2024-03-29 07:47:30,266 - INFO - Recognizing text in the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 07:47:30,266 - INFO - Recognizing text in the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 07:47:30,267 - INFO - Recognizing text in the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 07:47:30,267 - INFO - Recognizing text in the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 07:47:30,268 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 07:47:30,269 - INFO - Recognizing text in the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 07:47:30,270 - INFO - Recognizing text in the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 07:47:30,270 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 07:47:30,269 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 07:47:30,281 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 07:47:43,317 - INFO - Initialized easyocr.Reader
+2024-03-29 07:47:43,336 - INFO - Initialized easyocr.Reader
+2024-03-29 07:47:43,389 - INFO - Initialized easyocr.Reader
+2024-03-29 07:47:43,405 - INFO - Initialized easyocr.Reader
+2024-03-29 07:47:43,404 - INFO - Initialized easyocr.Reader
+2024-03-29 07:47:43,400 - INFO - Initialized easyocr.Reader
+2024-03-29 07:47:48,052 - INFO - Text recognition completed
+2024-03-29 07:47:48,053 - INFO - Text recognition completed for image: data/processed_images/Kota Factory Meme.png
+2024-03-29 07:47:48,053 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 07:47:48,053 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 07:47:48,794 - INFO - Text recognition completed
+2024-03-29 07:47:48,807 - INFO - Text recognition completed for image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 07:47:49,124 - INFO - Text recognition completed
+2024-03-29 07:47:49,144 - INFO - Text recognition completed for image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 07:47:49,159 - INFO - Text recognition completed
+2024-03-29 07:47:49,161 - INFO - Text recognition completed for image: data/processed_images/ayega na .png
+2024-03-29 07:47:49,445 - INFO - Text recognition completed
+2024-03-29 07:47:49,446 - INFO - Text recognition completed for image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 07:47:49,500 - INFO - Text recognition completed
+2024-03-29 07:47:49,500 - INFO - Text recognition completed for image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 07:47:49,685 - INFO - Text recognition completed
+2024-03-29 07:47:49,685 - INFO - Text recognition completed for image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 07:49:52,623 - INFO - Recognizing text in the image: data/processed_images/ayega na .png
+2024-03-29 07:49:52,623 - INFO - Getting text with coordinates from the image: data/processed_images/ayega na .png
+2024-03-29 07:49:52,623 - INFO - Recognizing text in the image: data/processed_images/ayega na .png
+2024-03-29 07:49:52,624 - INFO - Recognizing text in the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 07:49:52,624 - INFO - Recognizing text in the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 07:49:52,625 - INFO - Getting text with coordinates from the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 07:49:52,625 - INFO - Getting text with coordinates from the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 07:49:52,625 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 07:49:52,626 - INFO - Recognizing text in the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 07:49:52,627 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 07:49:52,627 - INFO - Recognizing text in the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 07:49:52,629 - INFO - Recognizing text in the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 07:49:52,631 - INFO - Getting text with coordinates from the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 07:49:52,633 - INFO - Getting text with coordinates from the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 07:49:52,633 - INFO - Getting text with coordinates from the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 07:49:52,634 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 07:49:52,634 - INFO - Recognizing text in the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 07:49:52,634 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 07:50:03,887 - INFO - Initialized easyocr.Reader
+2024-03-29 07:50:04,090 - INFO - Initialized easyocr.Reader
+2024-03-29 07:50:04,126 - INFO - Initialized easyocr.Reader
+2024-03-29 07:50:04,140 - INFO - Initialized easyocr.Reader
+2024-03-29 07:50:04,222 - INFO - Initialized easyocr.Reader
+2024-03-29 07:50:04,243 - INFO - Initialized easyocr.Reader
+2024-03-29 07:50:07,110 - INFO - Text recognition completed
+2024-03-29 07:50:07,110 - INFO - Text with coordinates retrieval completed
+2024-03-29 07:50:07,111 - INFO - Text recognition completed for image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 07:50:07,111 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 07:50:07,112 - INFO - Getting text with coordinates from the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 07:50:07,112 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 07:50:07,629 - INFO - Text recognition completed
+2024-03-29 07:50:07,636 - INFO - Text with coordinates retrieval completed
+2024-03-29 07:50:07,637 - INFO - Text recognition completed for image: data/processed_images/Kota Factory Meme.png
+2024-03-29 07:50:08,113 - INFO - Text recognition completed
+2024-03-29 07:50:08,123 - INFO - Text with coordinates retrieval completed
+2024-03-29 07:50:08,123 - INFO - Text recognition completed for image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 07:50:08,170 - INFO - Text recognition completed
+2024-03-29 07:50:08,179 - INFO - Text with coordinates retrieval completed
+2024-03-29 07:50:08,186 - INFO - Text recognition completed for image: data/processed_images/ayega na .png
+2024-03-29 07:50:08,518 - INFO - Text recognition completed
+2024-03-29 07:50:08,522 - INFO - Text with coordinates retrieval completed
+2024-03-29 07:50:08,523 - INFO - Text recognition completed for image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 07:50:08,563 - INFO - Text recognition completed
+2024-03-29 07:50:08,564 - INFO - Text with coordinates retrieval completed
+2024-03-29 07:50:08,564 - INFO - Text recognition completed for image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 07:50:08,984 - INFO - Text recognition completed
+2024-03-29 07:50:08,985 - INFO - Text with coordinates retrieval completed
+2024-03-29 07:50:08,985 - INFO - Text recognition completed for image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 07:52:35,876 - INFO - Recognizing text in the image: data/processed_images/ayega na .png
+2024-03-29 07:52:35,877 - INFO - Recognizing text in the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 07:52:35,877 - INFO - Getting text with coordinates from the image: data/processed_images/ayega na .png
+2024-03-29 07:52:35,878 - INFO - Recognizing text in the image: data/processed_images/ayega na .png
+2024-03-29 07:52:35,878 - INFO - Getting text with coordinates from the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 07:52:35,878 - INFO - Recognizing text in the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 07:52:35,879 - INFO - Recognizing text in the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 07:52:35,886 - INFO - Getting text with coordinates from the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 07:52:35,894 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 07:52:35,894 - INFO - Recognizing text in the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 07:52:35,895 - INFO - Getting text with coordinates from the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 07:52:35,899 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 07:52:35,898 - INFO - Recognizing text in the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 07:52:35,904 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 07:52:35,905 - INFO - Getting text with coordinates from the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 07:52:35,911 - INFO - Getting text with coordinates from the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 07:52:35,911 - INFO - Recognizing text in the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 07:52:35,911 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 07:52:46,563 - INFO - Initialized easyocr.Reader
+2024-03-29 07:52:46,598 - INFO - Initialized easyocr.Reader
+2024-03-29 07:52:46,697 - INFO - Initialized easyocr.Reader
+2024-03-29 07:52:46,738 - INFO - Initialized easyocr.Reader
+2024-03-29 07:52:46,754 - INFO - Initialized easyocr.Reader
+2024-03-29 07:52:46,829 - INFO - Initialized easyocr.Reader
+2024-03-29 07:52:50,155 - INFO - Text recognition completed
+2024-03-29 07:52:50,183 - INFO - Text with coordinates retrieval completed
+2024-03-29 07:52:50,184 - INFO - Text recognition completed for image: data/processed_images/Kota Factory Meme.png
+2024-03-29 07:52:50,187 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 07:52:50,187 - INFO - Getting text with coordinates from the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 07:52:50,192 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 07:52:50,467 - INFO - Text recognition completed
+2024-03-29 07:52:50,484 - INFO - Text with coordinates retrieval completed
+2024-03-29 07:52:50,488 - INFO - Text recognition completed for image: data/processed_images/ayega na .png
+2024-03-29 07:52:50,741 - INFO - Text recognition completed
+2024-03-29 07:52:50,744 - INFO - Text with coordinates retrieval completed
+2024-03-29 07:52:50,744 - INFO - Text recognition completed for image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 07:52:50,784 - INFO - Text recognition completed
+2024-03-29 07:52:50,787 - INFO - Text with coordinates retrieval completed
+2024-03-29 07:52:50,787 - INFO - Text recognition completed for image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 07:52:51,134 - INFO - Text recognition completed
+2024-03-29 07:52:51,137 - INFO - Text with coordinates retrieval completed
+2024-03-29 07:52:51,143 - INFO - Text recognition completed for image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 07:52:51,231 - INFO - Text recognition completed
+2024-03-29 07:52:51,232 - INFO - Text with coordinates retrieval completed
+2024-03-29 07:52:51,232 - INFO - Text recognition completed for image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 07:52:51,722 - INFO - Text recognition completed
+2024-03-29 07:52:51,722 - INFO - Text with coordinates retrieval completed
+2024-03-29 07:52:51,722 - INFO - Text recognition completed for image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 07:56:17,998 - INFO - Recognizing text in the image: data/processed_images/ayega na .png
+2024-03-29 07:56:17,998 - INFO - Extracting text from the image: data/processed_images/ayega na .png
+2024-03-29 07:56:17,998 - INFO - Recognizing text in the image: data/processed_images/ayega na .png
+2024-03-29 07:56:17,999 - INFO - Recognizing text in the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 07:56:17,999 - INFO - Recognizing text in the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 07:56:18,000 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 07:56:18,000 - INFO - Extracting text from the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 07:56:18,001 - INFO - Recognizing text in the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 07:56:18,002 - INFO - Extracting text from the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 07:56:18,002 - INFO - Recognizing text in the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 07:56:18,002 - INFO - Extracting text from the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 07:56:18,002 - INFO - Recognizing text in the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 07:56:18,001 - INFO - Extracting text from the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 07:56:18,004 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 07:56:18,001 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 07:56:18,005 - INFO - Recognizing text in the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 07:56:18,021 - INFO - Extracting text from the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 07:56:18,022 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 07:56:28,694 - INFO - Initialized easyocr.Reader
+2024-03-29 07:56:28,830 - INFO - Initialized easyocr.Reader
+2024-03-29 07:56:28,878 - INFO - Initialized easyocr.Reader
+2024-03-29 07:56:28,916 - INFO - Initialized easyocr.Reader
+2024-03-29 07:56:28,975 - INFO - Initialized easyocr.Reader
+2024-03-29 07:56:28,999 - INFO - Initialized easyocr.Reader
+2024-03-29 07:56:32,239 - INFO - Text recognition completed
+2024-03-29 07:56:32,252 - INFO - Text extraction completed
+2024-03-29 07:56:32,252 - INFO - Text recognition completed for image: data/processed_images/ayega na .png
+2024-03-29 07:56:32,256 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 07:56:32,256 - ERROR - Error processing image data/processed_images/ayega na .png: too many values to unpack (expected 3)
+2024-03-29 07:56:32,258 - INFO - Extracting text from the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 07:56:32,259 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 07:56:32,344 - INFO - Text recognition completed
+2024-03-29 07:56:32,348 - INFO - Text extraction completed
+2024-03-29 07:56:32,349 - INFO - Text recognition completed for image: data/processed_images/Kota Factory Meme.png
+2024-03-29 07:56:32,399 - INFO - Text recognition completed
+2024-03-29 07:56:32,413 - INFO - Text extraction completed
+2024-03-29 07:56:32,413 - INFO - Text recognition completed for image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 07:56:32,414 - ERROR - Error processing image data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png: too many values to unpack (expected 3)
+2024-03-29 07:56:32,658 - INFO - Text recognition completed
+2024-03-29 07:56:32,667 - INFO - Text extraction completed
+2024-03-29 07:56:32,667 - INFO - Text recognition completed for image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 07:56:32,667 - ERROR - Error processing image data/processed_images/MicrosoftTeams-image (5).png: too many values to unpack (expected 3)
+2024-03-29 07:56:33,047 - INFO - Text recognition completed
+2024-03-29 07:56:33,049 - INFO - Text extraction completed
+2024-03-29 07:56:33,050 - INFO - Text recognition completed for image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 07:56:33,050 - ERROR - Error processing image data/processed_images/MicrosoftTeams-image (2).png: too many values to unpack (expected 3)
+2024-03-29 07:56:33,119 - INFO - Text recognition completed
+2024-03-29 07:56:33,120 - INFO - Text extraction completed
+2024-03-29 07:56:33,120 - INFO - Text recognition completed for image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 07:56:33,121 - ERROR - Error processing image data/processed_images/Chandler No-No-No (2).png: too many values to unpack (expected 3)
+2024-03-29 07:56:33,666 - INFO - Text recognition completed
+2024-03-29 07:56:33,666 - INFO - Text extraction completed
+2024-03-29 07:56:33,667 - INFO - Text recognition completed for image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 07:56:33,667 - ERROR - Error processing image data/processed_images/MicrosoftTeams-image (4).png: too many values to unpack (expected 3)
+2024-03-29 07:57:48,020 - INFO - Recognizing text in the image: data/processed_images/ayega na .png
+2024-03-29 07:57:48,021 - INFO - Extracting text from the image: data/processed_images/ayega na .png
+2024-03-29 07:57:48,021 - INFO - Recognizing text in the image: data/processed_images/ayega na .png
+2024-03-29 07:57:48,024 - INFO - Recognizing text in the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 07:57:48,032 - INFO - Extracting text from the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 07:57:48,032 - INFO - Recognizing text in the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 07:57:48,032 - INFO - Recognizing text in the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 07:57:48,033 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 07:57:48,034 - INFO - Recognizing text in the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 07:57:48,034 - INFO - Extracting text from the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 07:57:48,036 - INFO - Extracting text from the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 07:57:48,049 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 07:57:48,049 - INFO - Extracting text from the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 07:57:48,053 - INFO - Recognizing text in the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 07:57:48,053 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 07:57:48,054 - INFO - Recognizing text in the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 07:57:48,070 - INFO - Extracting text from the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 07:57:48,070 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 07:57:58,495 - INFO - Initialized easyocr.Reader
+2024-03-29 07:57:58,686 - INFO - Initialized easyocr.Reader
+2024-03-29 07:57:58,746 - INFO - Initialized easyocr.Reader
+2024-03-29 07:57:58,748 - INFO - Initialized easyocr.Reader
+2024-03-29 07:57:58,784 - INFO - Initialized easyocr.Reader
+2024-03-29 07:57:58,799 - INFO - Initialized easyocr.Reader
+2024-03-29 07:58:02,259 - INFO - Text recognition completed
+2024-03-29 07:58:02,260 - INFO - Text extraction completed
+2024-03-29 07:58:02,260 - INFO - Text extraction completed for image: data/processed_images/Kota Factory Meme.png
+2024-03-29 07:58:02,260 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 07:58:02,261 - INFO - Extracting text from the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 07:58:02,261 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 07:58:02,424 - INFO - Text recognition completed
+2024-03-29 07:58:02,427 - INFO - Text extraction completed
+2024-03-29 07:58:02,428 - INFO - Text extraction completed for image: data/processed_images/ayega na .png
+2024-03-29 07:58:02,466 - INFO - Text recognition completed
+2024-03-29 07:58:02,470 - INFO - Text extraction completed
+2024-03-29 07:58:02,473 - INFO - Text extraction completed for image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 07:58:02,506 - INFO - Text recognition completed
+2024-03-29 07:58:02,509 - INFO - Text extraction completed
+2024-03-29 07:58:02,509 - INFO - Text extraction completed for image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 07:58:02,879 - INFO - Text recognition completed
+2024-03-29 07:58:02,886 - INFO - Text extraction completed
+2024-03-29 07:58:02,890 - INFO - Text extraction completed for image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 07:58:02,991 - INFO - Text recognition completed
+2024-03-29 07:58:02,992 - INFO - Text extraction completed
+2024-03-29 07:58:02,992 - INFO - Text extraction completed for image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 07:58:03,532 - INFO - Text recognition completed
+2024-03-29 07:58:03,532 - INFO - Text extraction completed
+2024-03-29 07:58:03,532 - INFO - Text extraction completed for image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 08:04:34,346 - INFO - Recognizing text in the image: data/processed_images/ayega na .png
+2024-03-29 08:04:34,346 - INFO - Recognizing text in the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 08:04:34,347 - INFO - Recognizing text in the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 08:04:34,347 - INFO - Extracting text from the image: data/processed_images/ayega na .png
+2024-03-29 08:04:34,347 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 08:04:34,347 - INFO - Extracting text from the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 08:04:34,349 - INFO - Recognizing text in the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 08:04:34,347 - INFO - Extracting text from the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 08:04:34,348 - INFO - Recognizing text in the image: data/processed_images/ayega na .png
+2024-03-29 08:04:34,348 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 08:04:34,349 - INFO - Extracting text from the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 08:04:34,348 - INFO - Recognizing text in the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 08:04:34,350 - INFO - Recognizing text in the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 08:04:34,351 - INFO - Extracting text from the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 08:04:34,353 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 08:04:34,356 - INFO - Extracting text from the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 08:04:34,380 - INFO - Recognizing text in the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 08:04:34,360 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 08:04:45,091 - INFO - Initialized easyocr.Reader
+2024-03-29 08:04:45,146 - INFO - Initialized easyocr.Reader
+2024-03-29 08:04:45,161 - INFO - Initialized easyocr.Reader
+2024-03-29 08:04:45,179 - INFO - Initialized easyocr.Reader
+2024-03-29 08:04:45,203 - INFO - Initialized easyocr.Reader
+2024-03-29 08:04:45,203 - INFO - Initialized easyocr.Reader
+2024-03-29 08:04:48,523 - INFO - Text recognition completed
+2024-03-29 08:04:48,554 - INFO - Text extraction completed
+2024-03-29 08:04:48,558 - INFO - Text extraction completed for image: data/processed_images/Kota Factory Meme.png
+2024-03-29 08:04:48,558 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 08:04:48,572 - INFO - Extracting text from the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 08:04:48,572 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 08:04:48,904 - INFO - Text recognition completed
+2024-03-29 08:04:48,914 - INFO - Text extraction completed
+2024-03-29 08:04:48,915 - INFO - Text extraction completed for image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 08:04:49,247 - INFO - Text recognition completed
+2024-03-29 08:04:49,254 - INFO - Text extraction completed
+2024-03-29 08:04:49,260 - INFO - Text extraction completed for image: data/processed_images/ayega na .png
+2024-03-29 08:04:49,349 - INFO - Text recognition completed
+2024-03-29 08:04:49,349 - INFO - Text extraction completed
+2024-03-29 08:04:49,350 - INFO - Text extraction completed for image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 08:04:49,688 - INFO - Text recognition completed
+2024-03-29 08:04:49,697 - INFO - Text extraction completed
+2024-03-29 08:04:49,699 - INFO - Text extraction completed for image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 08:04:49,699 - INFO - Text recognition completed
+2024-03-29 08:04:49,700 - INFO - Text extraction completed
+2024-03-29 08:04:49,700 - INFO - Text extraction completed for image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 08:04:50,150 - INFO - Text recognition completed
+2024-03-29 08:04:50,150 - INFO - Text extraction completed
+2024-03-29 08:04:50,151 - INFO - Text extraction completed for image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 08:05:12,096 - INFO - Recognizing text in the image: data/images/ayega na .png
+2024-03-29 08:05:12,097 - INFO - Extracting text from the image: data/images/ayega na .png
+2024-03-29 08:05:12,097 - INFO - Recognizing text in the image: data/images/ayega na .png
+2024-03-29 08:05:12,102 - INFO - Recognizing text in the image: data/images/Chandler No-No-No (2).png
+2024-03-29 08:05:12,103 - INFO - Recognizing text in the image: data/images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 08:05:12,106 - INFO - Recognizing text in the image: data/images/MicrosoftTeams-image (5).png
+2024-03-29 08:05:12,107 - INFO - Recognizing text in the image: data/images/Kota Factory Meme.png
+2024-03-29 08:05:12,108 - INFO - Recognizing text in the image: data/images/MicrosoftTeams-image (2).png
+2024-03-29 08:05:12,108 - INFO - Extracting text from the image: data/images/Chandler No-No-No (2).png
+2024-03-29 08:05:12,110 - INFO - Extracting text from the image: data/images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 08:05:12,111 - INFO - Recognizing text in the image: data/images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 08:05:12,111 - INFO - Extracting text from the image: data/images/MicrosoftTeams-image (5).png
+2024-03-29 08:05:12,112 - INFO - Extracting text from the image: data/images/Kota Factory Meme.png
+2024-03-29 08:05:12,112 - INFO - Recognizing text in the image: data/images/Chandler No-No-No (2).png
+2024-03-29 08:05:12,112 - INFO - Recognizing text in the image: data/images/MicrosoftTeams-image (5).png
+2024-03-29 08:05:12,112 - INFO - Extracting text from the image: data/images/MicrosoftTeams-image (2).png
+2024-03-29 08:05:12,114 - INFO - Recognizing text in the image: data/images/Kota Factory Meme.png
+2024-03-29 08:05:12,118 - INFO - Recognizing text in the image: data/images/MicrosoftTeams-image (2).png
+2024-03-29 08:05:22,684 - INFO - Initialized easyocr.Reader
+2024-03-29 08:05:22,806 - INFO - Initialized easyocr.Reader
+2024-03-29 08:05:22,912 - INFO - Initialized easyocr.Reader
+2024-03-29 08:05:22,913 - INFO - Initialized easyocr.Reader
+2024-03-29 08:05:22,932 - INFO - Initialized easyocr.Reader
+2024-03-29 08:05:22,964 - INFO - Initialized easyocr.Reader
+2024-03-29 08:06:31,859 - INFO - Recognizing text in the image: data/images/ayega na .png
+2024-03-29 08:06:31,860 - INFO - Recognizing text in the image: data/images/Chandler No-No-No (2).png
+2024-03-29 08:06:31,860 - INFO - Recognizing text in the image: data/images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 08:06:31,860 - INFO - Recognizing text in the image: data/images/MicrosoftTeams-image (5).png
+2024-03-29 08:06:31,862 - INFO - Extracting text from the image: data/images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 08:06:31,860 - INFO - Recognizing text in the image: data/images/Kota Factory Meme.png
+2024-03-29 08:06:31,862 - INFO - Extracting text from the image: data/images/ayega na .png
+2024-03-29 08:06:31,862 - INFO - Extracting text from the image: data/images/Chandler No-No-No (2).png
+2024-03-29 08:06:31,863 - INFO - Extracting text from the image: data/images/MicrosoftTeams-image (5).png
+2024-03-29 08:06:31,864 - INFO - Recognizing text in the image: data/images/MicrosoftTeams-image (5).png
+2024-03-29 08:06:31,861 - INFO - Recognizing text in the image: data/images/MicrosoftTeams-image (2).png
+2024-03-29 08:06:31,863 - INFO - Extracting text from the image: data/images/Kota Factory Meme.png
+2024-03-29 08:06:31,865 - INFO - Recognizing text in the image: data/images/Kota Factory Meme.png
+2024-03-29 08:06:31,863 - INFO - Recognizing text in the image: data/images/Chandler No-No-No (2).png
+2024-03-29 08:06:31,863 - INFO - Recognizing text in the image: data/images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 08:06:31,865 - INFO - Extracting text from the image: data/images/MicrosoftTeams-image (2).png
+2024-03-29 08:06:31,863 - INFO - Recognizing text in the image: data/images/ayega na .png
+2024-03-29 08:06:31,869 - INFO - Recognizing text in the image: data/images/MicrosoftTeams-image (2).png
+2024-03-29 08:06:43,395 - INFO - Initialized easyocr.Reader
+2024-03-29 08:06:43,404 - INFO - Initialized easyocr.Reader
+2024-03-29 08:06:43,411 - INFO - Initialized easyocr.Reader
+2024-03-29 08:06:43,423 - INFO - Initialized easyocr.Reader
+2024-03-29 08:06:43,414 - INFO - Initialized easyocr.Reader
+2024-03-29 08:06:43,537 - INFO - Initialized easyocr.Reader
+2024-03-29 08:06:56,472 - INFO - Recognizing text in the image: data/processed_images/ayega na .png
+2024-03-29 08:06:56,472 - INFO - Recognizing text in the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 08:06:56,473 - INFO - Recognizing text in the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 08:06:56,473 - INFO - Extracting text from the image: data/processed_images/ayega na .png
+2024-03-29 08:06:56,474 - INFO - Recognizing text in the image: data/processed_images/ayega na .png
+2024-03-29 08:06:56,474 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 08:06:56,474 - INFO - Recognizing text in the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 08:06:56,476 - INFO - Extracting text from the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 08:06:56,473 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 08:06:56,473 - INFO - Extracting text from the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 08:06:56,477 - INFO - Extracting text from the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 08:06:56,477 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 08:06:56,474 - INFO - Extracting text from the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 08:06:56,478 - INFO - Recognizing text in the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 08:06:56,477 - INFO - Recognizing text in the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 08:06:56,476 - INFO - Recognizing text in the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 08:06:56,475 - INFO - Extracting text from the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 08:06:56,481 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 08:07:07,078 - INFO - Initialized easyocr.Reader
+2024-03-29 08:07:07,166 - INFO - Initialized easyocr.Reader
+2024-03-29 08:07:07,188 - INFO - Initialized easyocr.Reader
+2024-03-29 08:07:07,251 - INFO - Initialized easyocr.Reader
+2024-03-29 08:07:07,262 - INFO - Initialized easyocr.Reader
+2024-03-29 08:07:07,274 - INFO - Initialized easyocr.Reader
+2024-03-29 08:07:10,693 - INFO - Text recognition completed
+2024-03-29 08:07:10,694 - INFO - Text extraction completed
+2024-03-29 08:07:10,694 - INFO - Text extraction completed for image: data/processed_images/Kota Factory Meme.png
+2024-03-29 08:07:10,695 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 08:07:10,695 - INFO - Extracting text from the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 08:07:10,696 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 08:07:11,528 - INFO - Text recognition completed
+2024-03-29 08:07:11,530 - INFO - Text extraction completed
+2024-03-29 08:07:11,531 - INFO - Text extraction completed for image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 08:07:11,754 - INFO - Text recognition completed
+2024-03-29 08:07:11,755 - INFO - Text extraction completed
+2024-03-29 08:07:11,755 - INFO - Text extraction completed for image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 08:07:11,826 - INFO - Text recognition completed
+2024-03-29 08:07:11,829 - INFO - Text extraction completed
+2024-03-29 08:07:11,833 - INFO - Text extraction completed for image: data/processed_images/ayega na .png
+2024-03-29 08:07:12,077 - INFO - Text recognition completed
+2024-03-29 08:07:12,081 - INFO - Text extraction completed
+2024-03-29 08:07:12,082 - INFO - Text extraction completed for image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 08:07:12,158 - INFO - Text recognition completed
+2024-03-29 08:07:12,159 - INFO - Text extraction completed
+2024-03-29 08:07:12,159 - INFO - Text extraction completed for image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 08:07:12,162 - INFO - Text recognition completed
+2024-03-29 08:07:12,162 - INFO - Text extraction completed
+2024-03-29 08:07:12,162 - INFO - Text extraction completed for image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 08:11:42,178 - INFO - Recognizing text in the image: data/processed_images/ayega na .png
+2024-03-29 08:11:42,178 - INFO - Extracting text from the image: data/processed_images/ayega na .png
+2024-03-29 08:11:42,179 - INFO - Recognizing text in the image: data/processed_images/ayega na .png
+2024-03-29 08:11:42,179 - INFO - Recognizing text in the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 08:11:42,180 - INFO - Extracting text from the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 08:11:42,180 - INFO - Recognizing text in the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 08:11:42,181 - INFO - Recognizing text in the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 08:11:42,181 - INFO - Extracting text from the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 08:11:42,181 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 08:11:42,183 - INFO - Extracting text from the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 08:11:42,183 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 08:11:42,183 - INFO - Recognizing text in the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 08:11:42,182 - INFO - Recognizing text in the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 08:11:42,182 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 08:11:42,186 - INFO - Extracting text from the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 08:11:42,187 - INFO - Extracting text from the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 08:11:42,188 - INFO - Recognizing text in the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 08:11:42,192 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 08:11:52,858 - INFO - Initialized easyocr.Reader
+2024-03-29 08:11:52,898 - INFO - Initialized easyocr.Reader
+2024-03-29 08:11:53,044 - INFO - Initialized easyocr.Reader
+2024-03-29 08:11:53,080 - INFO - Initialized easyocr.Reader
+2024-03-29 08:11:53,097 - INFO - Initialized easyocr.Reader
+2024-03-29 08:11:53,108 - INFO - Initialized easyocr.Reader
+2024-03-29 08:11:56,033 - INFO - Text recognition completed
+2024-03-29 08:11:56,036 - INFO - Text extraction completed
+2024-03-29 08:11:56,037 - INFO - Text extraction completed for image: data/processed_images/Kota Factory Meme.png
+2024-03-29 08:11:56,037 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 08:11:56,037 - INFO - Extracting text from the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 08:11:56,038 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 08:11:56,699 - INFO - Text recognition completed
+2024-03-29 08:11:56,704 - INFO - Text extraction completed
+2024-03-29 08:11:56,704 - INFO - Text extraction completed for image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 08:11:56,804 - INFO - Text recognition completed
+2024-03-29 08:11:56,812 - INFO - Text extraction completed
+2024-03-29 08:11:56,812 - INFO - Text extraction completed for image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 08:11:56,865 - INFO - Text recognition completed
+2024-03-29 08:11:56,865 - INFO - Text extraction completed
+2024-03-29 08:11:56,866 - INFO - Text extraction completed for image: data/processed_images/ayega na .png
+2024-03-29 08:11:57,287 - INFO - Text recognition completed
+2024-03-29 08:11:57,290 - INFO - Text extraction completed
+2024-03-29 08:11:57,291 - INFO - Text extraction completed for image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 08:11:57,406 - INFO - Text recognition completed
+2024-03-29 08:11:57,409 - INFO - Text extraction completed
+2024-03-29 08:11:57,410 - INFO - Text extraction completed for image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 08:11:57,737 - INFO - Text recognition completed
+2024-03-29 08:11:57,738 - INFO - Text extraction completed
+2024-03-29 08:11:57,738 - INFO - Text extraction completed for image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 09:12:16,340 - INFO - Recognizing text in the image: data/processed_images/ayega na .png
+2024-03-29 09:12:16,341 - INFO - Recognizing text in the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 09:12:16,341 - INFO - Extracting text from the image: data/processed_images/ayega na .png
+2024-03-29 09:12:16,341 - INFO - Recognizing text in the image: data/processed_images/ayega na .png
+2024-03-29 09:12:16,341 - INFO - Recognizing text in the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 09:12:16,341 - INFO - Extracting text from the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 09:12:16,344 - INFO - Recognizing text in the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 09:12:16,342 - INFO - Recognizing text in the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 09:12:16,343 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 09:12:16,345 - INFO - Extracting text from the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 09:12:16,341 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 09:12:16,345 - INFO - Extracting text from the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 09:12:16,343 - INFO - Extracting text from the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 09:12:16,360 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 09:12:16,360 - INFO - Extracting text from the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 09:12:16,360 - INFO - Recognizing text in the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 09:12:16,361 - INFO - Recognizing text in the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 09:12:16,361 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 09:12:26,781 - INFO - Initialized easyocr.Reader
+2024-03-29 09:12:26,949 - INFO - Initialized easyocr.Reader
+2024-03-29 09:12:26,994 - INFO - Initialized easyocr.Reader
+2024-03-29 09:12:27,007 - INFO - Initialized easyocr.Reader
+2024-03-29 09:12:27,029 - INFO - Initialized easyocr.Reader
+2024-03-29 09:12:27,046 - INFO - Initialized easyocr.Reader
+2024-03-29 09:12:30,627 - INFO - Text recognition completed
+2024-03-29 09:12:30,629 - INFO - Text extraction completed
+2024-03-29 09:12:30,646 - INFO - Text extraction completed for image: data/processed_images/Kota Factory Meme.png
+2024-03-29 09:12:30,646 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 09:12:30,647 - INFO - Extracting text from the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 09:12:30,647 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 09:12:31,044 - INFO - Text recognition completed
+2024-03-29 09:12:31,050 - INFO - Text extraction completed
+2024-03-29 09:12:31,058 - INFO - Text extraction completed for image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 09:12:31,313 - INFO - Text recognition completed
+2024-03-29 09:12:31,315 - INFO - Text extraction completed
+2024-03-29 09:12:31,315 - INFO - Text extraction completed for image: data/processed_images/ayega na .png
+2024-03-29 09:12:31,385 - INFO - Text recognition completed
+2024-03-29 09:12:31,392 - INFO - Text extraction completed
+2024-03-29 09:12:31,392 - INFO - Text extraction completed for image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 09:12:31,542 - INFO - Text recognition completed
+2024-03-29 09:12:31,545 - INFO - Text extraction completed
+2024-03-29 09:12:31,552 - INFO - Text extraction completed for image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 09:12:31,680 - INFO - Text recognition completed
+2024-03-29 09:12:31,683 - INFO - Text extraction completed
+2024-03-29 09:12:31,683 - INFO - Text extraction completed for image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 09:12:32,170 - INFO - Text recognition completed
+2024-03-29 09:12:32,170 - INFO - Text extraction completed
+2024-03-29 09:12:32,170 - INFO - Text extraction completed for image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 09:13:35,425 - INFO - Recognizing text in the image: data/processed_images/ayega na .png
+2024-03-29 09:13:35,426 - INFO - Recognizing text in the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 09:13:35,426 - INFO - Recognizing text in the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 09:13:35,427 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 09:13:35,428 - INFO - Recognizing text in the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 09:13:35,429 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 09:13:35,531 - ERROR - Error processing image data/processed_images/MicrosoftTeams-image (5).png: tesseract is not installed or it's not in your PATH. See README file for more information.
+2024-03-29 09:13:35,535 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 09:13:35,536 - ERROR - Error processing image data/processed_images/Chandler No-No-No (2).png: tesseract is not installed or it's not in your PATH. See README file for more information.
+2024-03-29 09:13:35,537 - ERROR - Error processing image data/processed_images/MicrosoftTeams-image (2).png: tesseract is not installed or it's not in your PATH. See README file for more information.
+2024-03-29 09:13:35,541 - ERROR - Error processing image data/processed_images/Kota Factory Meme.png: tesseract is not installed or it's not in your PATH. See README file for more information.
+2024-03-29 09:13:35,545 - ERROR - Error processing image data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png: tesseract is not installed or it's not in your PATH. See README file for more information.
+2024-03-29 09:13:35,547 - ERROR - Error processing image data/processed_images/ayega na .png: tesseract is not installed or it's not in your PATH. See README file for more information.
+2024-03-29 09:13:35,577 - ERROR - Error processing image data/processed_images/MicrosoftTeams-image (4).png: tesseract is not installed or it's not in your PATH. See README file for more information.
+2024-03-29 09:14:33,352 - INFO - Recognizing text in the image: data/processed_images/ayega na .png
+2024-03-29 09:14:33,353 - INFO - Recognizing text in the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 09:14:33,354 - INFO - Recognizing text in the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 09:14:33,355 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 09:14:33,355 - INFO - Recognizing text in the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 09:14:33,357 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 09:14:33,428 - ERROR - Error processing image data/processed_images/MicrosoftTeams-image (5).png: tesseract is not installed or it's not in your PATH. See README file for more information.
+2024-03-29 09:14:33,429 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 09:14:33,463 - ERROR - Error processing image data/processed_images/ayega na .png: tesseract is not installed or it's not in your PATH. See README file for more information.
+2024-03-29 09:14:33,464 - ERROR - Error processing image data/processed_images/Kota Factory Meme.png: tesseract is not installed or it's not in your PATH. See README file for more information.
+2024-03-29 09:14:33,474 - ERROR - Error processing image data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png: tesseract is not installed or it's not in your PATH. See README file for more information.
+2024-03-29 09:14:33,477 - ERROR - Error processing image data/processed_images/MicrosoftTeams-image (2).png: tesseract is not installed or it's not in your PATH. See README file for more information.
+2024-03-29 09:14:33,478 - ERROR - Error processing image data/processed_images/Chandler No-No-No (2).png: tesseract is not installed or it's not in your PATH. See README file for more information.
+2024-03-29 09:14:33,483 - ERROR - Error processing image data/processed_images/MicrosoftTeams-image (4).png: tesseract is not installed or it's not in your PATH. See README file for more information.
+2024-03-29 09:16:50,529 - INFO - Recognizing text in the image: data/processed_images/ayega na .png
+2024-03-29 09:16:50,537 - INFO - Recognizing text in the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 09:16:50,551 - INFO - Recognizing text in the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 09:16:50,564 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 09:16:50,568 - INFO - Recognizing text in the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 09:16:50,581 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 09:16:50,696 - ERROR - Error processing image data/processed_images/ayega na .png: tesseract is not installed or it's not in your PATH. See README file for more information.
+2024-03-29 09:16:50,697 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 09:16:50,719 - ERROR - Error processing image data/processed_images/MicrosoftTeams-image (2).png: tesseract is not installed or it's not in your PATH. See README file for more information.
+2024-03-29 09:16:50,728 - ERROR - Error processing image data/processed_images/Kota Factory Meme.png: tesseract is not installed or it's not in your PATH. See README file for more information.
+2024-03-29 09:16:50,742 - ERROR - Error processing image data/processed_images/Chandler No-No-No (2).png: tesseract is not installed or it's not in your PATH. See README file for more information.
+2024-03-29 09:16:50,743 - ERROR - Error processing image data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png: tesseract is not installed or it's not in your PATH. See README file for more information.
+2024-03-29 09:16:50,777 - ERROR - Error processing image data/processed_images/MicrosoftTeams-image (5).png: tesseract is not installed or it's not in your PATH. See README file for more information.
+2024-03-29 09:16:50,790 - ERROR - Error processing image data/processed_images/MicrosoftTeams-image (4).png: tesseract is not installed or it's not in your PATH. See README file for more information.
+2024-03-29 09:20:29,927 - INFO - Recognizing text in the image: data/processed_images/ayega na .png
+2024-03-29 09:20:29,927 - INFO - Extracting text from the image: data/processed_images/ayega na .png
+2024-03-29 09:20:29,927 - INFO - Recognizing text in the image: data/processed_images/ayega na .png
+2024-03-29 09:20:29,928 - INFO - Recognizing text in the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 09:20:29,928 - INFO - Recognizing text in the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 09:20:29,929 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 09:20:29,930 - INFO - Extracting text from the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 09:20:29,930 - INFO - Extracting text from the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 09:20:29,931 - INFO - Extracting text from the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 09:20:29,931 - INFO - Recognizing text in the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 09:20:29,931 - INFO - Recognizing text in the image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 09:20:29,932 - INFO - Extracting text from the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 09:20:29,931 - INFO - Recognizing text in the image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 09:20:29,932 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 09:20:29,931 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 09:20:29,933 - INFO - Recognizing text in the image: data/processed_images/Kota Factory Meme.png
+2024-03-29 09:20:29,935 - INFO - Extracting text from the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 09:20:29,963 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 09:20:40,702 - INFO - Initialized easyocr.Reader
+2024-03-29 09:20:40,765 - INFO - Initialized easyocr.Reader
+2024-03-29 09:20:40,768 - INFO - Initialized easyocr.Reader
+2024-03-29 09:20:40,771 - INFO - Initialized easyocr.Reader
+2024-03-29 09:20:40,783 - INFO - Initialized easyocr.Reader
+2024-03-29 09:20:40,837 - INFO - Initialized easyocr.Reader
+2024-03-29 09:20:43,994 - INFO - Text recognition completed
+2024-03-29 09:20:44,008 - INFO - Text extraction completed
+2024-03-29 09:20:44,008 - INFO - Text extraction completed for image: data/processed_images/Kota Factory Meme.png
+2024-03-29 09:20:44,009 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 09:20:44,009 - INFO - Extracting text from the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 09:20:44,009 - INFO - Recognizing text in the image: data/processed_images/MicrosoftTeams-image (4).png
+2024-03-29 09:20:44,486 - INFO - Text recognition completed
+2024-03-29 09:20:44,486 - INFO - Text extraction completed
+2024-03-29 09:20:44,487 - INFO - Text extraction completed for image: data/processed_images/ayega na .png
+2024-03-29 09:20:44,666 - INFO - Text recognition completed
+2024-03-29 09:20:44,680 - INFO - Text extraction completed
+2024-03-29 09:20:44,683 - INFO - Text extraction completed for image: data/processed_images/kyu-aa-gaya-mai-iss-narak-mein-768x362.png
+2024-03-29 09:20:44,723 - INFO - Text recognition completed
+2024-03-29 09:20:44,726 - INFO - Text extraction completed
+2024-03-29 09:20:44,726 - INFO - Text extraction completed for image: data/processed_images/MicrosoftTeams-image (5).png
+2024-03-29 09:20:45,074 - INFO - Text recognition completed
+2024-03-29 09:20:45,074 - INFO - Text recognition completed
+2024-03-29 09:20:45,077 - INFO - Text extraction completed
+2024-03-29 09:20:45,077 - INFO - Text extraction completed
+2024-03-29 09:20:45,077 - INFO - Text extraction completed for image: data/processed_images/MicrosoftTeams-image (2).png
+2024-03-29 09:20:45,078 - INFO - Text extraction completed for image: data/processed_images/Chandler No-No-No (2).png
+2024-03-29 09:20:45,640 - INFO - Text recognition completed
+2024-03-29 09:20:45,641 - INFO - Text extraction completed
+2024-03-29 09:20:45,641 - INFO - Text extraction completed for image: data/processed_images/MicrosoftTeams-image (4).png

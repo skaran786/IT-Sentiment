@@ -1,3 +1,6 @@
 Metadata-Version: 2.1
 Name: IT-Sentiment
 Version: 0.1
+Requires-Dist: easyocr
+Requires-Dist: pytesseract
+Requires-Dist: Pillow

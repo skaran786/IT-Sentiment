@@ -7,6 +7,8 @@ setup(
     include_package_data=True,
     install_requires=[
         # List your dependencies here
-
+        'easyocr',
+        'pytesseract',
+        'Pillow'
     ],
 )
